@@ -1,0 +1,90 @@
+/*Practical Requirements*/
+/*External CSS*/
+/*P Tag*/
+.ptag {
+  color: #734a00;
+  font-family: Algerian;
+  font-size: medium;
+  font-style: italic;
+  font-weight: lighter;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+h3 {
+  Background-color: #ffe3b0;
+  Border-bottom: gray outset left;
+  Border-left: gray outset left;
+  Border-right: gray outset left;
+  Border-top: gray outset left;
+  Color: chocolate;
+  font-family: Segoe Script;
+  padding-left: 10px;
+}
+
+li {
+  color: maroon;
+  list-style: url('green-ball.gif');
+  text-transform: capitalize;
+}
+
+/*Add Ons*/
+body {
+  font-family: Calibri;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  margin: 0;
+  filter: drop-shadow(2px 2px 3px black);
+}
+
+.disclaimer {
+  font-family: Constantia;
+  padding: 10px;
+}
+
+.navigation {
+  background-color: #c78100;
+  color: white;
+  padding: 8px;
+  overflow: auto;
+}
+
+.head {
+  background-image: linear-gradient(to bottom, #c78100, #ffe3b0, #c78100);
+}
+
+.info {
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+hr {
+  border-color: #c78100;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 2px;
+  width: 95%;
+}
+
+.btn {
+  background-color: white;
+  border: 1px solid;
+  border-radius: 10px;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.btn:hover {
+  background-color: #734a00;
+}
+
+a {
+  text-decoration: none;
+}
